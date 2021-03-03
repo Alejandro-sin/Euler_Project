@@ -12,7 +12,7 @@ La suma de esos multiplos es 23, encontrar la suma de todos los multiplos por de
 ''' */
 
 const multiples =[]
-for(let step = 0; step<1001; step ++){
+for(let step = 0; step<1000; step ++){
     /* console.log("Voy en el ...", step) */
     if (step%3 == 0 || step%5 == 0){
         multiples.push(step)

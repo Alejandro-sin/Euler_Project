@@ -12,7 +12,7 @@ La suma de esos multiplos es 23, encontrar la suma de todos los multiplos por de
 '''
 
 multiples =[]
-for x in range(1001):
+for x in range(1000):
     if x%3 == 0 or x%5 ==0:
         multiples.append(x)
 
@@ -25,6 +25,6 @@ Como una estructura comprimida
 
 '''
 
-ans = sum(x for x in range(1001) if(x%3 == 0 or x%5 ==0))
+ans = sum(x for x in range(1000) if(x%3 == 0 or x%5 ==0))
 print(ans)
 
