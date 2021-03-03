@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="images/logo.png">
   <br/>
-  Project: 
+  Project: Euler Dojo
   <br>
 </h1>
 
@@ -23,9 +23,9 @@
 
 # INTRODUCTION.
 
-In this project I learn about ...  and how integrate ...
-Im base on... 
+This project Ots for study of the amazing [Euler project](https://projecteuler.net/) the code resolution explantion and comments are in plain spanish and english. This is a iterative repository tha will be storage all of the mind process and personal effort of many.
 
+This is a working progress educational project by Platzi Master Students group.
 ## **Index** :
 
 <ul>
